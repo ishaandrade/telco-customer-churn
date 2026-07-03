@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+seaborn
+mlflow
+fastapi
+uvicorn
+pydantic
+python-dotenv
+joblib
+great-expectations
+pytest
